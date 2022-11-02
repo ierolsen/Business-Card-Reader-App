@@ -292,6 +292,7 @@ Now, what I will do is tagging all words in the cvs file.
 The BIO / IOB format (short for inside, outside, beginning) is a common tagging format for tagging tokens in a chunking task in computational linguistics (ex. named-entity recognition). The B- prefix before a tag indicates that the tag is the beginning of a chunk, and an I- prefix before a tag indicates that the tag is inside a chunk. The B- tag is used only when a tag is followed by a tag of the same type without O tokens between them. An O tag indicates that a token belongs to no entity / chunk. 
 
 The following figure shows how a BIO tagged sentence looks like:
+
 ![26](https://user-images.githubusercontent.com/30235603/199518809-266ea236-0e06-49be-b338-e66c74dbf558.png)
 
 ### Entities
