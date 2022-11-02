@@ -8,3 +8,4 @@ jupyter
 notebook
 matplotlib
 imutils
+flask
