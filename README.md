@@ -1,5 +1,7 @@
 # Business Card Reader App
 
+The main idea of this project is that extracting entities from the scanned Business Card.
+
 ![cover](https://user-images.githubusercontent.com/30235603/199545111-2801a9f2-f3f8-48fc-a6f7-71b0dd91df32.png)
 
 ### Project Features:
